@@ -1854,7 +1854,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 169.2148 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -1934,7 +1934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 137.16 102.362 90)
 			(hide yes)
 			(show_name no)
@@ -2016,7 +2016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
 			(at 159.004 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -2096,7 +2096,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 205.74 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -2265,7 +2265,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 196.85 114.808 90)
 			(hide yes)
 			(show_name no)
@@ -2347,7 +2347,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 149.86 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -2681,7 +2681,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 128.27 104.902 90)
 			(hide yes)
 			(show_name no)
